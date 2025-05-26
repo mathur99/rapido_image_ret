@@ -79,7 +79,7 @@ def run_image_retrieval(task, image_dir=None, query_image=None, index_path="imag
         raise
 
 if __name__ == "__main__":
-    task = "search"
+    task = "search" #search/index
     image_dir = r"C:\Users\vinay mathure\Documents\GitHub\rapido_image_ret\support_database_images"
     query_folder = r"C:\Users\vinay mathure\Documents\GitHub\rapido_image_ret\query_images"
     query_image_filename = r"C:\Users\vinay mathure\Documents\GitHub\rapido_image_ret\query_images\ray-ban-rb2132.jpg"

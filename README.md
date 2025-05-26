@@ -45,3 +45,15 @@ Rapido Image Retrieval is a Python-based tool for indexing and searching images 
     ```
     pip install -r requirements.txt
     ```
+
+## Usage
+
+The main script `index_and_retrieve.py` supports two tasks: **index** and **search**.
+
+### Step 1: Index Images
+
+Before searching, you need to build an index of your image database. Run the script with `task = "index"` to convert images and create the index:
+
+```
+python index_and_retrieve.py
+```
