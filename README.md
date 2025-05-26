@@ -1,4 +1,4 @@
-# Rapido Image Retrieval (Lost & Found)
+# Image Retrieval (Lost & Found)
 
 ![Rapido Image Retrieval](readme_files/header.webp)
 
