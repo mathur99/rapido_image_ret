@@ -1,8 +1,8 @@
-# Rapido Image Retrieval (Lost & Found)
+# Image Retrieval (Lost & Found)
 
 ![Rapido Image Retrieval](readme_files/header.webp)
 
-Rapido Image Retrieval is a Python-based tool for indexing and searching images using feature extraction and similarity search. It supports converting images to JPG format, indexing them efficiently, and retrieving the most similar images given a query image.
+Image Retrieval is a Python-based tool for indexing and searching images using feature extraction and similarity search. It supports converting images to JPG format, indexing them efficiently, and retrieving the most similar images given a query image.
 
 ## Features
 
