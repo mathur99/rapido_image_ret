@@ -6,6 +6,8 @@ Rapido Image Retrieval is a Python-based tool for indexing and searching images 
 
 ## Features
 
+![Lost & Found](readme_files/Figure_1.png)
+
 - Convert various image formats to JPG for consistency
 - Index images to create a searchable feature database
 - Search for similar images given a query image
